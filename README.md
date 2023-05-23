@@ -1,5 +1,10 @@
 # udemy_courses
 
+What is Udemy?
+Udemy is a massive open online course provider, and its learning experience arranges coursework into a series of modules and lessons that can include videos, text notes and assessment tests.
+
+
+
 # Dataset
 Top 5000 course on Udemy on the development category , scrapped 9/11/2022 and will be updated every 3 to 6 months also the other categories will be added soon
 
