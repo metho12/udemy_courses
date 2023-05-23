@@ -1,4 +1,4 @@
-# udemy_courses
+# Udemy_Courses
 
 What is Udemy?
 Udemy is a massive open online course provider, and its learning experience arranges coursework into a series of modules and lessons that can include videos, text notes and assessment tests.
